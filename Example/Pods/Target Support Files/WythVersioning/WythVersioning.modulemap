@@ -1,0 +1,6 @@
+framework module WythVersioning {
+  umbrella header "WythVersioning-umbrella.h"
+
+  export *
+  module * { export * }
+}

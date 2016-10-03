@@ -1,0 +1,16 @@
+PODS:
+  - WythVersioning (0.1.0)
+
+DEPENDENCIES:
+  - WythVersioning (from `../`)
+
+EXTERNAL SOURCES:
+  WythVersioning:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WythVersioning: 3c12c01d80407d61fdfc2db663f528ff50c6f7aa
+
+PODFILE CHECKSUM: 06c1f8289653806e621a0a79245aeaad738e8c19
+
+COCOAPODS: 1.1.0.rc.2
